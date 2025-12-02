@@ -1,0 +1,13 @@
+streamlit==1.28.0
+python-dotenv==1.0.0
+requests==2.31.0
+python-docx==0.8.11
+python-pptx==0.6.21
+pandas==2.0.0
+matplotlib==3.7.0
+numpy==1.24.0
+Pillow==10.0.0
+urllib3==1.26.0
+wordcloud==1.9.2
+jieba==0.42.1
+PyPDF2==3.0.0
